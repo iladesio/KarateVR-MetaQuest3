@@ -3,6 +3,8 @@ Our project aims to revolutionize karate training through a virtual reality (VR)
 
 This system exploits Meta Quest 3 built-in cameras to map the user's hands and recongize gestures.
 
+Download the source code [here](https://drive.google.com/file/d/1kYNiGyIM3VRvvG7kRPPUtYE3TbYXOe4Q/view?usp=drive_link)
+
 
 ![title](./images/mainmenu.png)
 ![title](./images/scaling.png)
