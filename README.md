@@ -10,6 +10,7 @@ This system exploits Meta Quest 3 built-in cameras to map the user's hands and r
 ## Prerequisites
 
 Meta Quest 3
+
 Unity for development and playing the game, version 2022.3.15f
 
 ## Installing the game:
